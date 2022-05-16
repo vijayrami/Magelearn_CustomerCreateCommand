@@ -3,7 +3,9 @@ Magento 2 Module which creates customer via command line interface with supplied
 
 # Features
 Create customers from command line terminal. It also provides below options:
+
     1. To send email to customer after successful registeration.
+    
     2. Add option to Add customer into Newsletter subscriber list.
 
 # Configurations

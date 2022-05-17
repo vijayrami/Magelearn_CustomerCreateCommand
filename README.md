@@ -19,5 +19,5 @@ Create customers from command line terminal. It also provides below options:
      *   [-s|--send-email [SEND-EMAIL]]
      *   [-ns|--newsletter-subscribe [NEWSLETTER-SUBSCRIBE]]
      *
-    php bin/magento magelearn:customer:create -f "Vijay" -l "Rami" -e "vijay.rami@gmail.com" -p "test123" -w 1
-    php bin/magento magelearn:customer:create -f "Vijay" -l "Rami" -e "vijay.rami@gmail.com" -p "test123" -w 1 -s 1 --newsletter-subscribe 1
+    php bin/magento magelearn:customer:create -f "Vijay" -l "Rami" -e "vijaymrami@gmail.com" -p "test123" -w 1
+    php bin/magento magelearn:customer:create -f "Vijay" -l "Rami" -e "vijaymrami@gmail.com" -p "test123" -w 1 -s 1 --newsletter-subscribe 1
